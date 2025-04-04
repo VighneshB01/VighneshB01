@@ -1,6 +1,6 @@
 <img src="./tetris-banner.svg" alt="Tetris Banner" width="100%">
 
-<h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Vighnesh Bhati</h2>
+<h2 align="left">Hi there! <img src="https://i.gifer.com/6vIk.gif"/> I'm Vighnesh Bhati</h2>
 
 <p align="left">An enthusiastic Computer Engineer crafting digital solutions in 🇮🇳 India</p>
 
