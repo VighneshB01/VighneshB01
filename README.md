@@ -1,69 +1,70 @@
-<h2 align="left">Hi 👋! I’m Vighnesh, a Passionate Developer from India</h2>
+<img src="./tetris-banner.svg" alt="Tetris Banner" width="100%">
 
-###
+<h2 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Vighnesh Bhati</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VighneshB01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Vighnesh's+GitHub+Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VighneshB01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&hide=typescript,html,css&order=python,cpp,go,javascript,react" height="150" alt="languages graph"  />
-</div>
+<p align="left">An enthusiastic Computer Engineer crafting digital solutions in 🇮🇳 India</p>
 
-###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kwNjVkdnpibDN2MXh5MmRsMmZqZHU1OG10cjBkZzJjNDNwcnkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+### 👨‍💻 About Me
+- 🔭 I'm currently working on **CONFIDENTIAL**
+- 🌱 Learning and growing in **THIS AND THAT**
+- 💬 Ask me about **React, JavaScript, Python, C++**
+- ⚡ Fun fact: **I'm dumb as hell**
 
-###
+<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kwNjVkdnpibDN2MXh5MmRsMmZqZHU1OG10cjBkZzJjNDNwcnkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
-<h3 align="left">🛠️ My Tech Stack</h3>
+### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" title="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
 </div>
 
-###
 
-<h3 align="left">🌐 Connect with Me</h3>
+### 🤝 Connect with Me
 <div align="left">
-  <a href="https://www.youtube.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="your-discord-invite-link">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:vighnesh0291@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
-  <a href="https://www.twitch.tv/yourusername" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/thisismevighnesh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/thisismevighnesh">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
 </div>
 
-###
+### 📊 This Week I Spent My Time On
+```text
+Reack        █████████░░   45%
+Go           ████████░░░   40%
+Python       ██████░░░░░   10%
+C++          ████░░░░░░░   0%
+```
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VighneshB01&theme=dracula&hide_border=false&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="GitHub Streak" />
-</div>
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Launched Avert 2.0 ...
+2. 💪 Successfully integrated flex-community ...
+3. 🗣 Working on a mental health assessment app ...
+<!--END_SECTION:activity-->
 
-###
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ArnabGupta525&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF00FF¢er=true&vCenter=true&width=435&lines=Python+is+my+core;Mastering+C%2B%2B+and+Go;Building+with+React+and+JS;Code+%3D+Creativity" alt="Typing SVG" />
-</div>
-
-###
-
-<p align="center">⭐ Crafting code with passion since Kalyug ⭐</p>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
