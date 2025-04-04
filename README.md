@@ -1,6 +1,6 @@
 <img src="./tetris-banner.svg" alt="Tetris Banner" width="100%">
 
-<h2 align="left">Hi there! <img src="https://i.gifer.com/6vIk.gif"/> I'm Vighnesh Bhati</h2>
+<h2 align="left">Hi there! I'm Vighnesh Bhati  <img src="https://i.gifer.com/3BBS.gif"/></h2>
 
 <p align="left">An enthusiastic Computer Engineer crafting digital solutions in 🇮🇳 India</p>
 
@@ -11,7 +11,7 @@
 - 💬 Ask me about **React, JavaScript, Python, C++**
 - ⚡ Fun fact: **I'm dumb as hell**
 
-<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kwNjVkdnpibDN2MXh5MmRsMmZqZHU1OG10cjBkZzJjNDNwcnkwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
+<img align="right" height="400" src="https://i.gifer.com/6vIk.gif" />
 
 ### 🛠️ Tech Stack
 <div align="left">
