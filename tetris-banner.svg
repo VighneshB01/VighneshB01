@@ -1,0 +1,79 @@
+<svg width="100%" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fall1 { 
+      from { transform: translateY(-100px); }
+      to { transform: translateY(200px); }
+    }
+    @keyframes fall2 { 
+      from { transform: translateY(-200px); }
+      to { transform: translateY(100px); }
+    }
+    @keyframes fall3 { 
+      from { transform: translateY(-150px); }
+      to { transform: translateY(150px); }
+    }
+    .piece1 { animation: fall1 3s infinite ease-in; }
+    .piece2 { animation: fall2 4s infinite ease-in; }
+    .piece3 { animation: fall3 3.5s infinite ease-in; }
+    .bg-grid line {
+      stroke: rgba(255, 255, 255, 0.1);
+      stroke-width: 1;
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#1a1b1e"/>
+  
+  <!-- Grid -->
+  <g class="bg-grid">
+    <!-- Vertical lines -->
+    <line x1="100" y1="0" x2="100" y2="250"/>
+    <line x1="200" y1="0" x2="200" y2="250"/>
+    <line x1="300" y1="0" x2="300" y2="250"/>
+    <line x1="400" y1="0" x2="400" y2="250"/>
+    <line x1="500" y1="0" x2="500" y2="250"/>
+    <line x1="600" y1="0" x2="600" y2="250"/>
+    <line x1="700" y1="0" x2="700" y2="250"/>
+    
+    <!-- Horizontal lines -->
+    <line x1="0" y1="50" x2="800" y2="50"/>
+    <line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="200" x2="800" y2="200"/>
+  </g>
+
+  <!-- Tetris Pieces -->
+  <g class="piece1">
+    <!-- L Piece -->
+    <rect x="100" y="50" width="50" height="50" fill="#FF971C"/>
+    <rect x="100" y="100" width="50" height="50" fill="#FF971C"/>
+    <rect x="150" y="100" width="50" height="50" fill="#FF971C"/>
+    <rect x="200" y="100" width="50" height="50" fill="#FF971C"/>
+  </g>
+  
+  <g class="piece2">
+    <!-- T Piece -->
+    <rect x="400" y="50" width="50" height="50" fill="#FF3213"/>
+    <rect x="450" y="50" width="50" height="50" fill="#FF3213"/>
+    <rect x="500" y="50" width="50" height="50" fill="#FF3213"/>
+    <rect x="450" y="100" width="50" height="50" fill="#FF3213"/>
+  </g>
+  
+  <g class="piece3">
+    <!-- Square Piece -->
+    <rect x="600" y="100" width="50" height="50" fill="#32FF13"/>
+    <rect x="650" y="100" width="50" height="50" fill="#32FF13"/>
+    <rect x="600" y="150" width="50" height="50" fill="#32FF13"/>
+    <rect x="650" y="150" width="50" height="50" fill="#32FF13"/>
+  </g>
+
+  <!-- Text -->
+  <text x="50%" y="50%" 
+        font-family="Monaco, Consolas, monospace" 
+        font-size="48" 
+        fill="#FFFFFF" 
+        text-anchor="middle" 
+        dominant-baseline="middle">
+    Welcome to my Profile!
+  </text>
+</svg>
