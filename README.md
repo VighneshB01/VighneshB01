@@ -61,7 +61,7 @@ C++          ████░░░░░░░   0%
 <!--END_SECTION:activity-->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArnabGupta525&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=VighneshB01&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
