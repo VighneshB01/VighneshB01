@@ -33,7 +33,7 @@
 
 ### 🤝 Connect with Me
 <div align="left">
-  <a href="your-discord-invite-link">
+  <a href="https://discord.gg/fDmGpXzt">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
   </a>
   <a href="mailto:vighnesh0291@gmail.com">
